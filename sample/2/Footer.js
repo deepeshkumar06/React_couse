@@ -6,5 +6,5 @@ const Footer = () => {
     <footer>Copyright &copy; {year.getFullYear()}</footer>
   )
 }
-
+adsfafasassa
 export default Footer
