@@ -1,0 +1,15 @@
+.Navbar{
+    background: #000;
+    height: 70px;
+    display: flex;
+    align-items: center;
+}
+.Navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+.Navbar a.active{
+    background-color: aquamarine;
+    color: #000;
+}
