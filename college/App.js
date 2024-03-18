@@ -3,6 +3,7 @@ import {Header} from './component/Header'
 import Props from './Props'
 
 function App() {
+  // Sample
   const info = {name:"hi" , age : 20};
   return (
     <>
